@@ -1,0 +1,6 @@
+es\davidrico\mockito\repositorios\ExamenRepository.class
+es\davidrico\mockito\servicios\ExamenService.class
+es\davidrico\mockito\repositorios\ExamenRepositoryOtro.class
+es\davidrico\mockito\servicios\ExamenServiceImpl.class
+es\davidrico\mockito\repositorios\PreguntaRepository.class
+es\davidrico\mockito\modelos\Examen.class
